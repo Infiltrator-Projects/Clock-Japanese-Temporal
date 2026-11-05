@@ -49,5 +49,5 @@ Each package owns only this provider and its passive documentation. Its `Replace
 ## Installed documentation
 
 Only the clock .so under /System/Resources/Clocks/ and its illustrated PDF
-under /System/Resources/Documentation/Clock-Japanese-Temporal/ are installed.
+under /System/Resources/Documentation/Clock-Japanese-Temporal.pdf are installed.
 Source engineering records stay in GitHub, native evidence in dpkg metadata.
